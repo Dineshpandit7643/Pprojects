@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\CSharp_Bangar_Raju\\Pprojects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|F:\\CSharp_Bangar_Raju\\Pprojects\\pprojects\\notepadclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|solutionrelative:pprojects\\notepadclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|f:\\csharp_bangar_raju\\pprojects\\pprojects\\notepadclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|solutionrelative:pprojects\\notepadclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|F:\\CSharp_Bangar_Raju\\Pprojects\\pprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|solutionrelative:pprojects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|F:\\CSharp_Bangar_Raju\\Pprojects\\pprojects\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|solutionrelative:pprojects\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Pprojects||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|F:\\CSharp_Bangar_Raju\\Pprojects\\pprojects\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{188E49BF-5393-4DF6-B147-96D5EED73CAF}|Pprojects\\Pprojects.csproj|solutionrelative:pprojects\\app1.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pprojects",
+              "DocumentMoniker": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\Pprojects.csproj",
+              "RelativeDocumentMoniker": "Pprojects\\Pprojects.csproj",
+              "ToolTip": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\Pprojects.csproj",
+              "RelativeToolTip": "Pprojects\\Pprojects.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-16T05:42:56.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\Program.cs",
+              "RelativeDocumentMoniker": "Pprojects\\Program.cs",
+              "ToolTip": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\Program.cs",
+              "RelativeToolTip": "Pprojects\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T07:02:50.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App1.config",
+              "DocumentMoniker": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\App1.config",
+              "RelativeDocumentMoniker": "Pprojects\\App1.config",
+              "ToolTip": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\App1.config",
+              "RelativeToolTip": "Pprojects\\App1.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-15T07:00:03.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\LoginForm.cs",
+              "RelativeDocumentMoniker": "Pprojects\\LoginForm.cs",
+              "ToolTip": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\LoginForm.cs",
+              "RelativeToolTip": "Pprojects\\LoginForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwBIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T06:51:51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NotepadClone.cs",
+              "DocumentMoniker": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\NotepadClone.cs",
+              "RelativeDocumentMoniker": "Pprojects\\NotepadClone.cs",
+              "ToolTip": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\NotepadClone.cs",
+              "RelativeToolTip": "Pprojects\\NotepadClone.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA0wBQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:48:25.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotepadClone.cs [Design]",
+              "DocumentMoniker": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\NotepadClone.cs",
+              "RelativeDocumentMoniker": "Pprojects\\NotepadClone.cs",
+              "ToolTip": "F:\\CSharp_Bangar_Raju\\Pprojects\\Pprojects\\NotepadClone.cs [Design]",
+              "RelativeToolTip": "Pprojects\\NotepadClone.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-14T13:32:18.375Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
